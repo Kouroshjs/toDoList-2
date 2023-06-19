@@ -1,1 +1,2 @@
-# practice-20-toDoList
+A simple ToDoList App based on LocalStorage.
+Created with Js
